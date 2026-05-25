@@ -6,8 +6,8 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-   Name : Dejashini T P <br>
-   Reg.No: 212224060055
+  # Name : Dejashini T P <br>
+#   Reg.No: 212224060055
 
 # Output
 # Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
